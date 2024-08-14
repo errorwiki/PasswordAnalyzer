@@ -38,7 +38,7 @@ git clone https://github.com/errorwiki/PasswordAnalyzer
 2. Change into directory:
 
 ```sh
-cd Password-Strength-Checker
+cd PasswoAanalyzer
 ```
 
 3. Install the `zxcvbn` library:
@@ -73,7 +73,7 @@ Strong: Password meets all the requirements. Score: 4/4
 
 Enter the number of passwords to test (enter 0 to exit): 0
 Exiting the tool.
-Thank you for using the Password Strength Checker.
+Thank you for using the Password Analyzer.
 ```
 
 ## Contributing
