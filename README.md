@@ -38,7 +38,7 @@ git clone https://github.com/errorwiki/PasswordAnalyzer
 2. Change into directory:
 
 ```sh
-cd PasswoAanalyzer
+cd PasswordAanalyzer
 ```
 
 3. Install the `zxcvbn` library:
