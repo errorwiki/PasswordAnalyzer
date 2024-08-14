@@ -50,7 +50,7 @@ pip3 install zxcvbn
 4. Run the script:
 
 ```
-python password_strength_checker.py.
+python passwordanalyzer.py
 ```
 
 5. Follow the prompts to enter the number of passwords to test, the path to the weak wordlist file (optional), and the path to the banned wordlist file (optional). Enter the passwords to test when prompted.
@@ -60,7 +60,7 @@ python password_strength_checker.py.
 ### Example Output
 
 ```
-$ python password_strength_checker.py
+$ python passwordanalyzer.py
 Enter the number of passwords to test (enter 0 to exit): 2
 Enter the path to the weak wordlist file (leave blank for default):  
 Enter the path to the banned wordlist file (leave blank for default):
